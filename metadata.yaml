@@ -1,0 +1,29 @@
+_repo: Rulers-of-India--The-Earl-of-Mayo_35809
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hunter, William Wilson
+    alias: Hunter, W. W. (William Wilson)
+    birthdate: 1840
+    deathdate: 1900
+    gutenberg_agent_id: '37908'
+    url: http://www.gutenberg.org/2009/agents/37908
+    wikipedia: http://en.wikipedia.org/wiki/William_Wilson_Hunter
+description: ''
+gutenberg_issued: '2011-04-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35809'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mayo, Richard Southwell Bourke, Earl of, 1822-1872'
+- !lcsh 'India -- History -- British occupation, 1765-1947'
+- !lcc 'DS'
+title: 'Rulers of India: The Earl of Mayo'
+url: http://www.gutenberg.org/ebooks/35809
